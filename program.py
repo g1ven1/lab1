@@ -1,1 +1,2 @@
-#Основаная программа
+#Backend программа
+print('Hello from Backend')
